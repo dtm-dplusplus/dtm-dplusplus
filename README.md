@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dtm-dplusplus
+- 👀 I’m interested in game dev and engines
+- 🌱 I’m currently learning OpenGL!
+- 📫 How to reach me pickeringdenis02@gmail.com
+- ⚡ Fun fact: Black is my favourite colour
